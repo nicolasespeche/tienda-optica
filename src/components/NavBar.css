@@ -1,0 +1,26 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+}
+
+.navBarList{
+    display: flex;
+    list-style: none;
+    margin: 20px;
+}
+
+.navBarList li{
+    margin: 10px;
+}
+
+.navBarList li a{
+    text-decoration: none;
+}
+
+.icon{
+    margin: 20px 60px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
