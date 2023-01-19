@@ -1,0 +1,19 @@
+.articulos{
+    width: 400px;
+    margin: 50px;
+    height: 350px;
+    border: 1px solid rgba(0, 0, 0, 0.418);
+    border-radius: 10px;
+    list-style: none;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.418);
+    font-size: 12px;
+}
+
+.articulos img{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(248, 243, 243);
+    border-radius: 10px;
+}
+

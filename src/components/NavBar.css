@@ -1,7 +1,7 @@
 .navBar{
     display: flex;
     justify-content: space-between;
-    background-color: red;
+    background-color: rgba(86, 5, 218, 0.411);
 }
 
 .navBarList{
@@ -16,6 +16,7 @@
 
 .navBarList li a{
     text-decoration: none;
+    color: rgb(248, 247, 234);
 }
 
 .icon{
